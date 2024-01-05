@@ -1,1 +1,1 @@
-# Traversy-media-JS-Crash-Course-code-notes
+# Traversy media javscript crash course code + commented notes.
